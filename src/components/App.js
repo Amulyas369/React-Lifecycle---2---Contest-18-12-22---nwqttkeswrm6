@@ -1,6 +1,7 @@
-import React from 'react'
+import React,{useState} from 'react'
 
 import '../styles/App.css';
+import { useState } from 'react';
 
 
 class App extends React.Component {
